@@ -1,4 +1,4 @@
-package Section5;
+package Methods;
 
 public class MegaBytesConverter {
     public static void main(String[] args) {

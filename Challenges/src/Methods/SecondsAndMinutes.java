@@ -1,4 +1,4 @@
-package Section_5;
+package Methods;
 
 public class SecondsAndMinutes {
     public static void main(String[] args) {

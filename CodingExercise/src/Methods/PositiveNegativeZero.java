@@ -1,4 +1,4 @@
-package Section5;
+package Methods;
 
 public class PositiveNegativeZero {
 
